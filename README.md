@@ -14,6 +14,15 @@ android-dev-bookmarks
 * [androidweekly](http://androidweekly.net/)
 
 # Libraries
+* [Square libs](http://square.github.io/#android)
+
+# OpenSource Projects
+* [**System apps**](https://android.googlesource.com/)
+* [IO2013](https://code.google.com/p/iosched/)
+* [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide)
+* [Github Client](https://github.com/github/android)
+* [K-9 Email Client](https://github.com/k9mail/k-9)
+* [weiciyuan Weibo client](https://github.com/qii/weiciyuan)
 
 # Books
 * Get Started
