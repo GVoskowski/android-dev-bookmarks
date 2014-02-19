@@ -48,7 +48,15 @@ android-dev-bookmarks
   An Android helper class to manage database creation and version management using an application's raw asset files
 * [Dagger](http://square.github.io/dagger/)
   A fast dependency injector for Android and Java
+* [keyczar](https://code.google.com/p/keyczar/)  
+  Toolkit for safe and simple cryptography
+* [Gson](https://code.google.com/p/google-gson/)
+  A Java library to convert JSON to Java objects and vice-versa
 
+
+# Tools
+* [Android Asset Studio](http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html)
+* [Android Holo Colors](http://android-holo-colors.com/) 
 
 # OpenSource Projects
 * [**System apps**](https://android.googlesource.com/)
