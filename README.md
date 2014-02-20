@@ -12,6 +12,7 @@ android-dev-bookmarks
 * [Coursera](https://www.coursera.org/specialization/mobilecloudcomputing/2?utm_medium=listingPage)
 
 # Subscription Resources
+* [AndroidHive](http://www.androidhive.info/)
 * [androidweekly](http://androidweekly.net/)
 * [ImportNews](http://www.importnew.com/)
 
