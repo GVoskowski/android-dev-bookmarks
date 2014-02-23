@@ -13,6 +13,8 @@ android-dev-bookmarks
 
 # Subscription Resources
 * [AndroidHive](http://www.androidhive.info/)
+* [StylingAndroid](http://blog.stylingandroid.com/)
+* [TutPlus](http://code.tutsplus.com/categories/android-sdk)
 * [androidweekly](http://androidweekly.net/)
 * [ImportNews](http://www.importnew.com/)
 
