@@ -17,6 +17,7 @@ android-dev-bookmarks
 * [TutPlus](http://code.tutsplus.com/categories/android-sdk)
 * [androidweekly](http://androidweekly.net/)
 * [ImportNews](http://www.importnew.com/)
+* [锋客网](http://www.phonekr.com)
 
 # Libraries
 ### Views
