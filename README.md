@@ -21,20 +21,26 @@ android-dev-bookmarks
 
 # Libraries
 ### Views
-* [Cardslib](https://github.com/gabrielemariotti/cardslib) 
+* [Cardslib](https://github.com/gabrielemariotti/cardslib)  
   Android Library to build a UI Card 
-* [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) 
+* [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)  
   An Android library which allows developers to easily add animations to ListView items
-* [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) 
+* [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh)  
   A modern implementation of the pull-to-refresh interaction for android
-* [Crouton](https://github.com/keyboardsurfer/Crouton) 
+* [Crouton](https://github.com/keyboardsurfer/Crouton)  
   Context sensitive notifications for Android
-* [PhotoView](https://github.com/chrisbanes/PhotoView) 
+* [PhotoView](https://github.com/chrisbanes/PhotoView)  
   Implementation of ImageView for Android that supports zooming, by various touch gestures.
-* [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) 
+* [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)  
   An Android staggered grid view which supports multiple columns with rows of varying sizes.
-* [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) 
+* [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)  
   Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
+* [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)  
+  An interactive indicator to navigate between the different pages of a ViewPager
+* [HoloGraphLibrary](https://bitbucket.org/danielnadeau/holographlibrary/wiki/Home)  
+  This is a library written to allow beautiful graphs and charts to be easily incorporated into your Android application. Included are: LineGraph view, BarGraph view, PieGraph view.
+* [ShowcaseView](https://github.com/amlcurran/ShowcaseView)  
+  Highlight the best bits of your app to users quickly, simply, and cool...ly
 
 ### Utilities
 * [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) 
@@ -70,6 +76,9 @@ android-dev-bookmarks
 * [Github Client](https://github.com/github/android)
 * [K-9 Email Client](https://github.com/k9mail/k-9)
 * [weiciyuan Weibo client](https://github.com/qii/weiciyuan)
+
+# Slides
+* [Slides: Efficient Android Threading](http://www.slideshare.net/andersgoransson/efficient-android-threading)
 
 # Books
 * [Book: Smashing Android UI, October 2012](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118387287.html)
