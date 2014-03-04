@@ -70,6 +70,12 @@ android-dev-bookmarks
 # Tools
 * [Android Asset Studio](http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html)
 * [Android Holo Colors](http://android-holo-colors.com/) 
+* [android-butterknife-zelezny](https://github.com/inmite/android-butterknife-zelezny)  
+  Android Studio plug-in for generating ButterKnife injections from selected layout XML. 
+
+# Design Resources
+* [FlatIcon](http://www.flaticon.com/)
+
 
 # OpenSource Projects
 * [**System apps**](https://android.googlesource.com/)
