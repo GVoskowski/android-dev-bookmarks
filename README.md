@@ -35,6 +35,7 @@ android-dev-bookmarks
 * [**System apps**](https://android.googlesource.com/)
 * [IO2013](https://code.google.com/p/iosched/)
 * [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide)
+* [muzei](https://github.com/romannurik/muzei)
 * [Github Client](https://github.com/github/android)
 * [K-9 Email Client](https://github.com/k9mail/k-9)
 * [weiciyuan Weibo client](https://github.com/qii/weiciyuan)
