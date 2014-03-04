@@ -6,6 +6,8 @@ android-dev-bookmarks
 * [Vogella](http://www.vogella.com/tutorials/android.html)
 * [CodePath](http://guides.thecodepath.com/android)
 * [RockWithAndroid](http://beartung.github.io/rockwithandroid)
+* [Where To Start - Learning Android Development the Right Way](https://plus.google.com/+KevinDarty/posts/Qex6Ae6zhZW)
+* [Resources every Android developer must know](http://www.bongizmo.com/blog/android-resources-each-developer-should-know/)
 
 # Online Courses
 * [TreeHouse](http://teamtreehouse.com/library/topic:Android)
