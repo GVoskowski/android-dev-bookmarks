@@ -35,6 +35,7 @@ android-dev-bookmarks
 * [**System apps**](https://android.googlesource.com/)
 * [IO2013](https://code.google.com/p/iosched/)
 * [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide)
+* [u2020](https://github.com/JakeWharton/u2020)
 * [muzei](https://github.com/romannurik/muzei)
 * [Github Client](https://github.com/github/android)
 * [K-9 Email Client](https://github.com/k9mail/k-9)
