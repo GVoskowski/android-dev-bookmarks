@@ -42,6 +42,8 @@ android-dev-bookmarks
 
 # Slides
 * [Slides: Efficient Android Threading](http://www.slideshare.net/andersgoransson/efficient-android-threading)
+* [Android Apps with Dagger](https://speakerdeck.com/jakewharton/android-apps-with-dagger)
+* [Android Testing](https://speakerdeck.com/jakewharton/android-testing)
 
 # Books
 * [Book: Smashing Android UI, October 2012](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118387287.html)
