@@ -15,6 +15,7 @@ android-dev-bookmarks
 
 # Subscription Resources
 * [AndroidHive](http://www.androidhive.info/)
+* [ONGOING DEV](http://gmariotti.blogspot.jp/)
 * [StylingAndroid](http://blog.stylingandroid.com/)
 * [TutPlus](http://code.tutsplus.com/categories/android-sdk)
 * [androidweekly](http://androidweekly.net/)
@@ -24,8 +25,11 @@ android-dev-bookmarks
 # Tools
 * [Android Asset Studio](http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html)
 * [Android Holo Colors](http://android-holo-colors.com/) 
+* [Android Cheatsheet For Graphic Designers](https://github.com/petrnohejl/Android-Cheatsheet-For-Graphic-Designers)
 * [android-butterknife-zelezny](https://github.com/inmite/android-butterknife-zelezny)  
-  Android Studio plug-in for generating ButterKnife injections from selected layout XML. 
+  Android Studio plug-in for generating ButterKnife injections from selected layout XML.
+* [dagger intellij plugin](https://github.com/square/dagger-intellij-plugin)
+* [otto intellij plugin](https://github.com/square/otto-intellij-plugin)
 
 # Design Resources
 * [FlatIcon](http://www.flaticon.com/)
