@@ -8,6 +8,7 @@ android-dev-bookmarks
 * [RockWithAndroid](http://beartung.github.io/rockwithandroid)
 * [Where To Start - Learning Android Development the Right Way](https://plus.google.com/+KevinDarty/posts/Qex6Ae6zhZW)
 * [Resources every Android developer must know](http://www.bongizmo.com/blog/android-resources-each-developer-should-know/)
+* [Android Dev Libraries Stats](http://www.appbrain.com/stats/libraries/dev)
 
 # Online Courses
 * [TreeHouse](http://teamtreehouse.com/library/topic:Android)
@@ -30,6 +31,7 @@ android-dev-bookmarks
   Android Studio plug-in for generating ButterKnife injections from selected layout XML.
 * [dagger intellij plugin](https://github.com/square/dagger-intellij-plugin)
 * [otto intellij plugin](https://github.com/square/otto-intellij-plugin)
+* [Software Licenses in Plain English](https://tldrlegal.com/)
 
 # Design Resources
 * [FlatIcon](http://www.flaticon.com/)
