@@ -35,6 +35,7 @@ android-dev-bookmarks
 
 # Design Resources
 * [FlatIcon](http://www.flaticon.com/)
+* [Flat UI](http://designmodo.github.io/Flat-UI/)
 
 
 # OpenSource Projects
