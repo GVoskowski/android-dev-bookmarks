@@ -54,6 +54,7 @@ android-dev-bookmarks
 * [Android Apps with Dagger](https://speakerdeck.com/jakewharton/android-apps-with-dagger)
 * [Android Testing](https://speakerdeck.com/jakewharton/android-testing)
 * [FRP on Android](http://slid.es/yaroslavheriatovych/frponandroid)
+* [Ship Faster with Square](https://docs.google.com/presentation/d/1dTYZE69m981NHzQzpB8kLOPoS-XEEFf390rQBUga67M/pub#slide=id.p)
 
 # Books
 * [Book: Smashing Android UI, October 2012](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118387287.html)
