@@ -46,6 +46,7 @@ android-dev-bookmarks
 * [muzei](https://github.com/romannurik/muzei)
 * [Github Client](https://github.com/github/android)
 * [K-9 Email Client](https://github.com/k9mail/k-9)
+* [Vibes](https://github.com/adelnizamutdinov/Vibes)
 * [四次元微博](https://github.com/qii/weiciyuan)
 * [Dribble 客户端](https://github.com/Issacw0ng/Dribbo)
 
